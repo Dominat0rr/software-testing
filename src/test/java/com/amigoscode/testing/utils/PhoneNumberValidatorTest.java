@@ -28,5 +28,4 @@ class PhoneNumberValidatorTest {
         // Then
         assertThat(isValid).isEqualTo(expected);
     }
-
 }
